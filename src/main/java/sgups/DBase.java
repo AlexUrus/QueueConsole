@@ -1,4 +1,4 @@
-package org.example;
+package sgups;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

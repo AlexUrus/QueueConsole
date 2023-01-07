@@ -1,4 +1,4 @@
-package org.example;
+package sgups;
 
 public class Student {
     String surname;
